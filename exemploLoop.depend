@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1668166587 source:c:\portfolio de projetos\c\exemploloop\main.c
+	<stdio.h>
+	<stdlib.h>
+
